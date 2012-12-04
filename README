@@ -1,0 +1,12 @@
+
+Author : 
+	Austin Fusiak
+
+Description : 
+	This project current consists of a finite state machine in c++.  It can be used to process complex state 
+	transitions for various stateful objects such as orders in a order management system. 
+
+To Do :
+	Seporate main.cpp into class files with proper includes and seporate implements of functions versus definitions. 
+	Add a second argument to the process event that can take an object of reference data to be passed into the specific event handlers
+
